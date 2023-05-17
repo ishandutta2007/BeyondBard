@@ -6,3 +6,34 @@ layout: home
 ---
 
 Download from chrome 
+
+
+[
+
+![Add to Chrome](/img/chrome.svg)
+
+Add to Chrome](https://chrome.google.com/webstore/detail/summary-for-google-with-c/cmnlolelipjlhfkhpohphpedmkfbobjc)
+
+[
+
+![Add to Edge](/img/edge.svg)
+
+Add to EDGE](https://chrome.google.com/webstore/detail/summary-for-google-with-c/cmnlolelipjlhfkhpohphpedmkfbobjc)
+
+[
+
+![Add to Safari](/img/safar.svg)
+
+Add to Safari](https://apps.apple.com/cn/app/glarity/id6446609868?mt=12)
+
+[
+
+![Add to Firefox](/img/firefox.svg)
+
+Add to Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/glarity/)
+
+[
+
+![Add to Opera](/img/opera.svg)
+
+Add to Opera](https://chrome.google.com/webstore/detail/summary-for-google-with-c/cmnlolelipjlhfkhpohphpedmkfbobjc)
