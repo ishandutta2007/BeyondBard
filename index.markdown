@@ -8,32 +8,33 @@ layout: home
 Download from chrome 
 
 
-[
 
-![Add to Chrome](https://user-images.githubusercontent.com/3750161/214147732-c75e96a4-48a4-4b64-b407-c2402e899a75.PNG)
+[link-chrome]: https://chrome.google.com/webstore/detail/cpgpt/cedjhhjppifnfkfkgoflfeddidedofcg?hl=en&authuser=0 'Chrome Web Store'
 
-Add to Chrome](https://chrome.google.com/webstore/detail/summary-for-google-with-c/cmnlolelipjlhfkhpohphpedmkfbobjc)
+[<img src="https://user-images.githubusercontent.com/3750161/214147732-c75e96a4-48a4-4b64-b407-c2402e899a75.PNG" height="67" alt="Chrome" valign="middle">][link-chrome]
 
-[
 
-![Add to Edge](/img/edge.svg)
 
-Add to EDGE](https://chrome.google.com/webstore/detail/summary-for-google-with-c/cmnlolelipjlhfkhpohphpedmkfbobjc)
+[link-edge]: https://chrome.google.com/webstore/detail/cpgpt/cedjhhjppifnfkfkgoflfeddidedofcg?hl=en&authuser=0 'Edge Web Store'
 
-[
+[<img src="https://user-images.githubusercontent.com/3750161/214147732-c75e96a4-48a4-4b64-b407-c2402e899a75.PNG" height="67" alt="Chrome" valign="middle">][link-chrome]
 
-![Add to Safari](/img/safar.svg)
 
-Add to Safari](https://apps.apple.com/cn/app/glarity/id6446609868?mt=12)
 
-[
+[link-safari]: https://chrome.google.com/webstore/detail/cpgpt/cedjhhjppifnfkfkgoflfeddidedofcg?hl=en&authuser=0 'Safari Web Store'
 
-![Add to Firefox](/img/firefox.svg)
+[<img src="https://user-images.githubusercontent.com/3750161/214147732-c75e96a4-48a4-4b64-b407-c2402e899a75.PNG" height="67" alt="Chrome" valign="middle">][link-chrome]
 
-Add to Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/glarity/)
 
-[
 
-![Add to Opera](/img/opera.svg)
+[link-firefox]: https://chrome.google.com/webstore/detail/cpgpt/cedjhhjppifnfkfkgoflfeddidedofcg?hl=en&authuser=0 'Safari Web Store'
 
-Add to Opera](https://chrome.google.com/webstore/detail/summary-for-google-with-c/cmnlolelipjlhfkhpohphpedmkfbobjc)
+[<img src="https://user-images.githubusercontent.com/3750161/214147732-c75e96a4-48a4-4b64-b407-c2402e899a75.PNG" height="67" alt="Chrome" valign="middle">][link-chrome]
+
+
+
+[link-opera]: https://chrome.google.com/webstore/detail/cpgpt/cedjhhjppifnfkfkgoflfeddidedofcg?hl=en&authuser=0 'Safari Web Store'
+
+[<img src="https://user-images.githubusercontent.com/3750161/214147732-c75e96a4-48a4-4b64-b407-c2402e899a75.PNG" height="67" alt="Chrome" valign="middle">][link-chrome]
+
+
