@@ -1,4 +1,4 @@
-#ishandutta2007
+#beyondbard
 
 In the case of Minima, you see only the following files in your Jekyll site directory:
 
