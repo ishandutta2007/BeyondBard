@@ -10,7 +10,7 @@ Download from chrome
 
 [
 
-![Add to Chrome](/img/chrome.svg)
+![Add to Chrome](https://user-images.githubusercontent.com/3750161/214147732-c75e96a4-48a4-4b64-b407-c2402e899a75.PNG)
 
 Add to Chrome](https://chrome.google.com/webstore/detail/summary-for-google-with-c/cmnlolelipjlhfkhpohphpedmkfbobjc)
 
