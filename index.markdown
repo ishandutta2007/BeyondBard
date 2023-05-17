@@ -50,7 +50,7 @@ Bard is a language model developed by Google. It is a large, pre-trained Transfo
 
 Taking Bard across web but integreating it to multiple sites.BeyondBard is a browser extension that provides:
 
-*   Displays a Bard summary in Google, Bing, Youtube and multiple sites.
+*   Displays a Bard summary in Google, Bing, Youtube, Yahoo, Github and multiple other sites.
 
 3\. Is Bard Summary?
 
@@ -58,7 +58,7 @@ Bard for YouTube/Google free to use? - Yes
 
 4\. What websites are supported?
 
-Summary is supported for almost all websites (unless the wape has nothing userful to summarise). Additonally popular sites like Google, Bing , Youtube have custome prompts written for them.
+Summary is supported for almost all websites (unless the wape has nothing userful to summarise). Additonally popular sites like Google, Bing, Youtube, Yahoo, Github we have custome prompts written for them.
 
 5\. Do I need a Google Bard account?
 
