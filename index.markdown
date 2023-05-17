@@ -39,26 +39,30 @@ Download from chrome
 
 
 
-
 FAQ
 ---
 
-1\. What is ChatGPT?
+1\. What is Bard?
 
-ChatGPT is a language model developed by OpenAI. It is a large, pre-trained Transformer-based neural network designed to generate human-like text in response to prompts provided by the user. It has been trained on a variety of internet texts and can handle a range of topics, including general knowledge questions, conversation responses, and creative writing.
+Bard is a language model developed by Google. It is a large, pre-trained Transformer-based neural network designed to generate human-like text in response to prompts provided by the user. It has been trained on a variety of internet texts and can handle a range of topics, including general knowledge questions, conversation responses, and creative writing.
 
-2\. What is Glarity Summary - ChatGPT for YouTube/Google?
+2\. What is BeyondBard Summary?
 
-Glarity Summary - ChatGPT for YouTube/Google is a browser extension that provides::
+Taking Bard across web but integreating it to multiple sites.BeyondBard is a browser extension that provides:
 
-*   Displays a ChatGPT summary in Google search results simultaneously.
-*   Displays a ChatGPT summary in Youtube.
+*   Displays a Bard summary in Google, Bing, Youtube and multiple sites.
 
-3\. Is Glarity Summary - ChatGPT for YouTube/Google free to use?
+3\. Is Bard Summary?
+
+Bard for YouTube/Google free to use? - Yes
 
 4\. What websites are supported?
 
-5\. Do I need a ChatGPT/OpenAI account?
+Summary is supported for almost all websites (unless the wape has nothing userful to summarise). Additonally popular sites like Google, Bing , Youtube have custome prompts written for them.
+
+5\. Do I need a Google Bard account?
+
+Yes you must be logged into https://bard.google.com on one of your browsers tab, that's all.
 
 
 
