@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to beyondbard's Apps!"
+title:  "Welcome to Beyondbard!"
 date:   2023-05-04 06:41:54 +0530
 categories: jekyll update
 ---
