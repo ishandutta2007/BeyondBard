@@ -9,7 +9,7 @@ Download from chrome
 
 
 
-[link-chrome]: https://chrome.google.com/webstore/detail/cpgpt/cedjhhjppifnfkfkgoflfeddidedofcg?hl=en&authuser=0 'Chrome Web Store'
+[link-chrome]: https://chrome.google.com/webstore/detail/cpgpt/ceknbkmhppjloheidfdpmaijdcgofoif?hl=en&authuser=0 'Chrome Web Store'
 
 [<img src="https://user-images.githubusercontent.com/3750161/214147732-c75e96a4-48a4-4b64-b407-c2402e899a75.PNG" height="67" alt="Chrome" valign="middle">][link-chrome]
 
@@ -58,7 +58,7 @@ Bard for YouTube/Google free to use? - Yes
 
 4\. What websites are supported?
 
-Summary is supported for almost all websites (unless the wape has nothing userful to summarise). Additonally popular sites like Google, Bing, Youtube, Yahoo, Github we have custome prompts written for them.
+Summary is supported for almost all websites (unless the wape has nothing useful to summarise). Additionally popular sites like Google, Bing, Youtube, Yahoo, Github we have custom prompts written for them.
 
 5\. Do I need a Google Bard account?
 
