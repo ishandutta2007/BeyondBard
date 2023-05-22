@@ -9,25 +9,25 @@ Download from chrome
 
 
 
-[link-chrome]: https://chrome.google.com/webstore/detail/cpgpt/ceknbkmhppjloheidfdpmaijdcgofoif?hl=en&authuser=0 'Chrome Web Store'
+[link-chrome]: https://chrome.google.com/webstore/detail/ceknbkmhppjloheidfdpmaijdcgofoif/preview?hl=en&authuser=0 'Chrome Web Store'
 
 [<img src="https://user-images.githubusercontent.com/3750161/214147732-c75e96a4-48a4-4b64-b407-c2402e899a75.PNG" height="67" alt="Chrome" valign="middle">][link-chrome]
 
 
 
-[link-edge]: https://chrome.google.com/webstore/detail/cpgpt/cedjhhjppifnfkfkgoflfeddidedofcg?hl=en&authuser=0 'Edge Web Store'
+[link-edge]: https://chrome.google.com/webstore/detail/ceknbkmhppjloheidfdpmaijdcgofoif/preview?hl=en&authuser=0 'Edge Web Store'
 
 [<img src="" height="67" alt="Chrome" valign="middle">][link-chrome]
 
 
 
-[link-safari]: https://chrome.google.com/webstore/detail/cpgpt/cedjhhjppifnfkfkgoflfeddidedofcg?hl=en&authuser=0 'Safari Web Store'
+[link-safari]: https://chrome.google.com/webstore/detail/ceknbkmhppjloheidfdpmaijdcgofoif/preview?hl=en&authuser=0 'Safari Web Store'
 
 [<img src="" height="67" alt="Chrome" valign="middle">][link-chrome]
 
 
 
-[link-firefox]: https://chrome.google.com/webstore/detail/cpgpt/cedjhhjppifnfkfkgoflfeddidedofcg?hl=en&authuser=0 'Safari Web Store'
+[link-firefox]: https://chrome.google.com/webstore/detail/ceknbkmhppjloheidfdpmaijdcgofoif/preview?hl=en&authuser=0 'Safari Web Store'
 
 [<img src="" height="67" alt="Chrome" valign="middle">][link-chrome]
 
